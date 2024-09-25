@@ -1,13 +1,7 @@
 # Java_Study
 
-Java 및 Eclipse 공부 포함 백엔드 관련 모든 지식을 공부합니다.
+- SCIT 사전학습반 (2024.08)
 
-- JAVA
 
-- Eclipse
-
-- Oracle
-
-- SQL
 
   
