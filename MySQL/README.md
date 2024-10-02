@@ -1,6 +1,6 @@
-# Java_Study
+# MySQL_Study
 
-- SCIT 사전학습반 (2024.08)
+- SCIT IT 수업 (2024.09 ~ 2024.10)
 
 
 
